@@ -14,7 +14,7 @@
 ---
 Backend
 <br/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Gradle](https://img.shields.io/badge/spring_mvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-0DBD8B?style=for-the-badge&logo=jpa&logoColor=white) ![QueryDsl](https://img.shields.io/badge/QueryDsl-%230175C2.svg?style=for-the-badge&logo=query_dsl&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-%23F05033.svg?style=for-the-badge&logo=MyBatis&logoColor=white)![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Maven](https://img.shields.io/badge/maven-F58025?style=for-the-badge&logo=Maven&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Gradle](https://img.shields.io/badge/spring_mvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-0DBD8B?style=for-the-badge&logo=jpa&logoColor=white) ![QueryDsl](https://img.shields.io/badge/QueryDsl-%230175C2.svg?style=for-the-badge&logo=query_dsl&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-%23F05033.svg?style=for-the-badge&logo=MyBatis&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Maven](https://img.shields.io/badge/maven-F58025?style=for-the-badge&logo=Maven&logoColor=white)
 
 DevOps
 <br/>
